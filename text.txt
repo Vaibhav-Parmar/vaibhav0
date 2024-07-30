@@ -5,3 +5,6 @@ this is not your file
 
 
 don't look at this file
+
+
+look for last line in text2 file
